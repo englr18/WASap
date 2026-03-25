@@ -1,0 +1,101 @@
+{
+  "@@locale": "en",
+  "appTitle": "WASap",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "appSubtitle": "Sapa Lebih Mudah",
+  "@appSubtitle": {
+    "description": "The subtitle/tagline of the application"
+  },
+  "phoneNumberLabel": "Phone Number",
+  "@phoneNumberLabel": {
+    "description": "Label for the phone number input field"
+  },
+  "recentNumbers": "Recent Numbers",
+  "@recentNumbers": {
+    "description": "Section title for recent numbers"
+  },
+  "clearAll": "Clear All",
+  "@clearAll": {
+    "description": "Button to clear all recent numbers"
+  },
+  "openWhatsApp": "Open WhatsApp",
+  "@openWhatsApp": {
+    "description": "Button text to open WhatsApp"
+  },
+  "howItWorks": "How It Works",
+  "@howItWorks": {
+    "description": "Title for the info card section"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme setting label"
+  },
+  "lightTheme": "Light",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  "darkTheme": "Dark",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  "invalidPhoneNumber": "Invalid phone number",
+  "@invalidPhoneNumber": {
+    "description": "Error message for invalid phone number"
+  },
+  "whatsAppNotInstalled": "WhatsApp is not installed",
+  "@whatsAppNotInstalled": {
+    "description": "Error message when WhatsApp is not available"
+  },
+  "noRecentNumbers": "No recent numbers",
+  "@noRecentNumbers": {
+    "description": "Empty state message for recent numbers"
+  },
+  "pasteFromClipboard": "Paste from clipboard",
+  "@pasteFromClipboard": {
+    "description": "Tooltip for paste button"
+  },
+  "clearInput": "Clear input",
+  "@clearInput": {
+    "description": "Tooltip for clear button"
+  },
+  "normalizedPreview": "Normalized: {number}",
+  "@normalizedPreview": {
+    "description": "Preview of normalized phone number",
+    "placeholders": {
+      "number": {
+        "type": "String",
+        "example": "628123456789"
+      }
+    }
+  },
+  "exampleFormat1": "0812 345 6789",
+  "@exampleFormat1": {
+    "description": "Example phone format 1"
+  },
+  "exampleFormat2": "+62 812 345 6789",
+  "@exampleFormat2": {
+    "description": "Example phone format 2"
+  },
+  "exampleFormat3": "812 345 6789",
+  "@exampleFormat3": {
+    "description": "Example phone format 3"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "indonesian": "Indonesian",
+  "@indonesian": {
+    "description": "Indonesian language option"
+  }
+}
